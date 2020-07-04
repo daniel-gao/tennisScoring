@@ -1,5 +1,5 @@
 # tennisScoring
-It is structured as Intellij IDEA project, precompile by IDEA.
+It is structured as Intellij IDEA project, precompiled by IDEA.
 It is also built by gradle.
 
 How to run it:
